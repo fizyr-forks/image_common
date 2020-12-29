@@ -37,6 +37,7 @@
 #include "image_transport/camera_common.h"
 #include <message_filters/subscriber.h>
 #include <message_filters/time_synchronizer.h>
+#include <boost/bind.hpp>
 
 inline void increment(int* value)
 {

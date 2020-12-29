@@ -34,6 +34,7 @@
 
 #include "polled_camera/publication_server.h"
 #include <image_transport/image_transport.h>
+#include <boost/bind.hpp>
 
 namespace polled_camera {
 

@@ -41,6 +41,7 @@
 #include "polled_camera/GetPolledImage.h"
 
 #include <ros/macros.h>
+#include <boost/bind.hpp>
 
 // Import/export for windows dll's and visibility for gcc shared libraries.
 

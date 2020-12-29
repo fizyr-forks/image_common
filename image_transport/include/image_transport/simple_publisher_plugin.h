@@ -36,6 +36,7 @@
 #define IMAGE_TRANSPORT_SIMPLE_PUBLISHER_PLUGIN_H
 
 #include "image_transport/publisher_plugin.h"
+#include <boost/bind.hpp>
 #include <boost/scoped_ptr.hpp>
 
 namespace image_transport {

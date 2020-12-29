@@ -35,6 +35,7 @@
 #include "image_transport/publisher.h"
 #include "image_transport/publisher_plugin.h"
 #include <pluginlib/class_loader.h>
+#include <boost/bind.hpp>
 #include <boost/foreach.hpp>
 #include <boost/algorithm/string/erase.hpp>
 

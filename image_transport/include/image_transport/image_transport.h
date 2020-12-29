@@ -41,6 +41,8 @@
 #include "image_transport/camera_subscriber.h"
 #include "exports.h"
 
+#include <boost/bind.hpp>
+
 namespace image_transport {
 
 /**

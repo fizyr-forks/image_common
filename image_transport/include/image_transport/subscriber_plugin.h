@@ -37,6 +37,7 @@
 
 #include <ros/ros.h>
 #include <sensor_msgs/Image.h>
+#include <boost/bind.hpp>
 #include <boost/noncopyable.hpp>
 #include "image_transport/transport_hints.h"
 

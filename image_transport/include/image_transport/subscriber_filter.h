@@ -40,6 +40,8 @@
 
 #include "image_transport/image_transport.h"
 
+#include <boost/bind.hpp>
+
 namespace image_transport {
 
 /**
